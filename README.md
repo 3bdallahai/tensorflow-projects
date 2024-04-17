@@ -1,4 +1,3 @@
-# tensorflow-projects
 
 # AI Models Examples
 This repository contains examples of AI models built while learning the basics of TensorFlow and machine learning. Below is a brief overview of each project:
