@@ -22,8 +22,13 @@ Using DenseNet121
 Description: Implements a face recognition model using TensorFlow and the DenseNet121 architecture.
 Getting Started
 
+# NLP
+##English to Spanish translation
+
+
+
 # Dependencies
-Python 3.x
-TensorFlow
-scikit-learn
+Python 3,
+TensorFlow,
+scikit-learn,
 pandas & numpy
